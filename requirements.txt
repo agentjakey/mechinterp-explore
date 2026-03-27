@@ -1,0 +1,6 @@
+transformer_lens>=1.19.0
+torch>=2.0.0
+einops>=0.7.0
+matplotlib>=3.7.0
+numpy>=1.24.0
+streamlit>=1.32.0
